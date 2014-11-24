@@ -1,7 +1,7 @@
 HackWatch
 =========
 
-Apple Watch app showing arrival times for Uber written in Swift
+Apple Watch app showing arrival times for Uber
 Made for [hackathon.watch](http://hackathon.watch)
 
 ##Screenshots
