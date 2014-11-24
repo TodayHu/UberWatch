@@ -10,11 +10,11 @@ Made for [hackathon.watch](http://hackathon.watch)
 
 ![Glance](https://raw.githubusercontent.com/sapanbhuta/HackWatch/master/Screenshots/1.png)
 
-2. Pressing on Glance takes you to the main app which is a button to order an Uber
+1. Pressing on Glance takes you to the main app which is a button to order an Uber
 
 ![Button](https://raw.githubusercontent.com/sapanbhuta/HackWatch/master/Screenshots/2.png)
 
-3. On pressing the button an Uber is dispatched to your location in the map
+1. On pressing the button an Uber is dispatched to your location in the map
 
 ![Map](https://raw.githubusercontent.com/sapanbhuta/HackWatch/master/Screenshots/3.png)
 
