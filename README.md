@@ -1,8 +1,9 @@
 HackWatch
 =========
 
-Apple Watch app showing arrival times for Uber
-Made for [hackathon.watch](http://hackathon.watch)
+Apple Watch app showing arrival times for the closest available UberX.
+
+Made for [hackathon.watch](http://hackathon.watch).
 
 ##Screenshots
 
